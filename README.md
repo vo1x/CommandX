@@ -32,5 +32,4 @@ If you build the app on your own machine, macOS won’t quarantine it:
 The app is sandboxed and will NOT connect to the internet. It also doesn't have any file access entitlements.
 
 ## TODO
-- [ x ] Launch at login
 - [ ] Fix file names and search queries in finder not being "cut"
