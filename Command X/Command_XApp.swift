@@ -38,8 +38,6 @@ struct Command_XApp: App {
                 appDelegate.openInputMonitoringSettings()
             }
             
-            Divider()
-            
             Button("Quit") {
                 NSApplication.shared.terminate(nil)
             }
